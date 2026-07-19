@@ -1,0 +1,11 @@
+Student_ID,Name,Age,Gender,Department,City,CGPA,Attendance
+101,Ali,20,Male,Computer Science,Peshawar,3.45,90
+102,Sara,21,Female,Software Engineering,Islamabad,3.80,95
+103,Ahmed,22,Male,Computer Science,Lahore,3.10,88
+104,Ayesha,20,Female,Data Science,Karachi,3.92,97
+105,Hamza,23,Male,Information Technology,Peshawar,2.95,80
+106,Zainab,21,Female,Computer Science,Quetta,3.55,92
+107,Bilal,22,Male,Data Science,Lahore,3.70,89
+108,Maria,20,Female,Software Engineering,Karachi,3.65,94
+109,Usman,23,Male,Information Technology,Islamabad,3.20,85
+110,Hina,21,Female,Computer Science,Peshawar,3.85,98
